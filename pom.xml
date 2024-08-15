@@ -38,7 +38,7 @@
     </repositories>
 
     <dependencies>
-        <!-- Discord Dependencies -->
+        <!-- Discord Dependencies trigger -->
         <dependency>
             <groupId>net.dv8tion</groupId>
             <artifactId>JDA</artifactId>
